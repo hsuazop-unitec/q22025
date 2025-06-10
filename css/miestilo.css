@@ -1,0 +1,103 @@
+
+.playwrite-hu {
+  font-family: "Playwrite HU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.fondo_azul{
+    background-color: #106eea;
+}
+
+#top_bar{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+i{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#menu{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#menu a{
+    color: #222222;
+}
+
+#hero{
+    background-image: url('../img/hero-bg.jpg');
+    padding-top: 160px;
+    padding-bottom: 160px;
+
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+
+
+}
+
+.color_azul{
+    color: #106eea;
+}
+
+#servicios{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.p_arribayabajo{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.sombras{
+   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.sombras2{
+    box-shadow: 0px -25px 20px -20px rgba(0, 0, 0, 0.45);
+}
+
+.grande{
+    font-size: 40px;
+}
+.grande_icono{
+    font-size: 60px;
+}
+
+#contacto{
+    background-color: #f7f5f5;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.fondo_blanco{
+      background-color: #fff;
+}
+
+.p_todo{
+   padding: 30px;
+}
